@@ -27,3 +27,9 @@ body {
     background-color: #ffffff;
   }
 }
+
+/* 调整GUI控制面板的缩放比例 */
+.dg.ac {
+  transform: scale(0.5);
+  transform-origin: top left;
+}
